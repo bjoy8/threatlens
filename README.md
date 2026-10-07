@@ -2,8 +2,7 @@
 
 **Passive OSINT & threat-intelligence correlation platform.** Give it a domain, IP, URL, e-mail, file hash or username and it collects public intelligence, correlates the indicators into a graph, and returns a 0-100 risk score with evidence.
 
-![Domain investigation](<img width="701" height="1280" alt="photo_2026-10-08_01-32-12" src="https://github.com/user-attachments/assets/9b8b2be6-2592-4b4f-9bed-271d70037f35" />
-)
+![Domain investigation](docs/screenshots/domain.png)
 
 > Screenshots use **mocked demo data** (every API was simulated), so scores and findings are illustrative only.
 
