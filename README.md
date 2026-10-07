@@ -15,9 +15,23 @@
 - **Exports:** Markdown report, JSON, IOC CSV, STIX 2.1 bundle.
 - **Safe by design:** SSRF guard (private/loopback hosts are never probed), CSP and security headers, scan throttling, API keys never reach the browser.
 
-| Malware hash | IP profile | Batch triage |
-|---|---|---|
-| ![hash](malware-hash.png) | ![ip](ip.png) | ![batch](batch.png) |
+## 📸 Screenshots
+
+### 🔍 Investigation Dashboard
+
+![ThreatLens Investigation Dashboard](docs/screenshots/domain.png)
+
+### 🦠 Malware Hash Analysis
+
+![ThreatLens Malware Hash Analysis](docs/screenshots/malware-hash.png)
+
+### 🌐 IP Threat Intelligence
+
+![ThreatLens IP Investigation](docs/screenshots/ip.png)
+
+### ⚡ Batch IOC Triage
+
+![ThreatLens Batch Triage](docs/screenshots/batch.png)
 
 ## Quick start
 ```bash
