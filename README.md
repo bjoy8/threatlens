@@ -35,7 +35,7 @@
 
 ## Quick start
 ```bash
-git clone https://github.com/<your-username>/threatlens.git
+git clone https://github.com/<bjoy8>/threatlens.git
 cd threatlens
 pip install -r requirements.txt
 cp .env.example .env      # then add your keys
